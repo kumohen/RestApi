@@ -1,0 +1,13 @@
+
+
+.ui.buttons .button:first-child {
+
+  width: 30px;
+  margin-right: 10px;
+}
+
+.ui.buttons .button:last-child {
+
+  width: 30px;
+  margin-right: 200px;
+}
